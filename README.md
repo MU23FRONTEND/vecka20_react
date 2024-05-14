@@ -9,7 +9,7 @@ Hallå där studenter! Under vår sista utbildningsvecka innan grupprojektet dra
 ## Videor
 
 ### Liveinspelningar
-Inga föreläsningar publicerade ännu...
+- [Tisdag förmiddag](https://vimeo.com/946194503/454f963043?share=copy)
 
 ### YouTube
 - [React/TypeScript - complete tutorial](https://www.youtube.com/watch?v=TPACABQTHvM)
